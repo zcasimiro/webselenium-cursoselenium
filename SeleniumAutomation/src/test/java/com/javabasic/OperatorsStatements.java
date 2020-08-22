@@ -35,6 +35,7 @@ public class OperatorsStatements {
 	int num2=14;
 	int num3=6;
 	int num4=11;
+	//este es un comentario de de prueba
 	
 	if(num1 >=10 || num2 >10) {
 		System.out.println("los numeros son mayores a 10");
