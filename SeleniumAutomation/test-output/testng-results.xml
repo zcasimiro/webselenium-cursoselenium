@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch automatedtester app]]>
+    </line>
+    <line>
+      <![CDATA[Click Link Chapter 1]]>
+    </line>
+    <line>
+      <![CDATA[Click Radio Button]]>
+    </line>
+    <line>
+      <![CDATA[Select "Selenium Core" from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Navigate Home page clicking "Home Page" link]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11395" started-at="2020-09-07T01:01:16Z" finished-at="2020-09-07T01:01:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11395" started-at="2020-09-07T01:01:16Z" finished-at="2020-09-07T01:01:27Z">
+      <class name="com.automatedtester.qa.TC001_Chapter1_ValidateDropdown">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.automatedtester.qa.TC001_Chapter1_ValidateDropdown@20d3d15a]" name="beforeTest" is-config="true" duration-ms="34" started-at="2020-09-07T01:01:16Z" finished-at="2020-09-07T01:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.automatedtester.qa.TC001_Chapter1_ValidateDropdown@20d3d15a]" name="afterTest" duration-ms="5" started-at="2020-09-07T01:01:16Z" finished-at="2020-09-07T01:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:com.automatedtester.qa.TC001_Chapter1_ValidateDropdown@20d3d15a]" name="TC001" is-config="true" duration-ms="11312" started-at="2020-09-07T01:01:16Z" finished-at="2020-09-07T01:01:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch automatedtester app]]>
+            </line>
+            <line>
+              <![CDATA[Click Link Chapter 1]]>
+            </line>
+            <line>
+              <![CDATA[Click Radio Button]]>
+            </line>
+            <line>
+              <![CDATA[Select "Selenium Core" from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Navigate Home page clicking "Home Page" link]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+      </class> <!-- com.automatedtester.qa.TC001_Chapter1_ValidateDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
